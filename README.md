@@ -32,3 +32,7 @@ Verify the Kubernets verion yaml: kubectl version --output=yaml
 Check the kubernets nodes: sudo kubectl get nodes
 
 Kubectl Commands in minikube:
+
+1. sudo kubectl get ns
+2. sudo kubectl
+3. 
